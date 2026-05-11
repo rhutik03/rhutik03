@@ -64,7 +64,7 @@ leetcode_status: "why do I do this to myself"
  
 <div align="center">  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhutik03&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 </div>
 
