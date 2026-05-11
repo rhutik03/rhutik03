@@ -90,7 +90,7 @@ leetcode_status: "why do I do this to myself"
 ## 🐛 Fun Facts
 
 > ⚡ My first instinct for any bug is `// TODO: Please fix this asap`  
-> 🕐 "It works on my machine" is a valid architecture
+> 🕐 "It works on my machine" is a valid architecture  
 > ⏱️ Turns out handling timezones is not easy when using multiple database flavours, till haunted by daylight savings  
 > 📱 My most-used IDE is... IntelliJ  
 > ☕ I measure productivity in coffee cups, not commits  
