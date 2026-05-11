@@ -63,7 +63,7 @@ leetcode_status: "why do I do this to myself"
 ## 📊 GitHub Stats
  
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=rhutik03&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhutik03&theme=tokyonight)
  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhutik03&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
