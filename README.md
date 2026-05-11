@@ -100,6 +100,6 @@ leetcode_status: "why do I do this to myself"
 
 *`System.out.println("Thanks for visiting! 👾");`*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3b82f6&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=rhutik03&color=3b82f6&style=flat-square&label=profile+views)
 
 </div>
